@@ -1,16 +1,10 @@
-# horrorkvest
-Сайт с хоррор-квестами
 
-На сайте присутствует информация о компании
+  # horror
 
-На сайте можно ознакомиться с услугами сайта
+  Note: Please ensure you have installed <code><a href="https://nodejs.org/en/download/">nodejs</a></code>
 
-На сайте можно посмотреть отзывы
-
-На сайте можно ознакомиться с описанием квестов
-
-На сайте можно выбрать интересующий вас выбор сложности
-
-На сайте можно рассчитать окончательную стоимость услуг
-
-На сайте присутствует возможность обратной связи
+  To preview and run the project on your device:
+  1) Open project folder in <a href="https://code.visualstudio.com/download">Visual Studio Code</a>
+  2) In the terminal, run `npm install`
+  3) Run `npm start` to view project in browser
+  
